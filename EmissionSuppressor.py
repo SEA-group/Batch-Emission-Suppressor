@@ -12,7 +12,7 @@ from wand.image import Image as wimage
 #################### Set Parameters ####################
 
 # Set input and output paths
-inputDir = 'content'
+inputDir = 'gameplay'
 outputDir = inputDir
 
 # Max B value, beatween 0 and 255
